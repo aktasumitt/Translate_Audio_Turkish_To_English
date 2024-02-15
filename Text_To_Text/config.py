@@ -8,4 +8,4 @@ TEXT=("Elektro negatiflik, Nobel ödüllü kimyager Linus Pauling tarafından ta
 SOURCE_TEXT_LANG="tr_TR"
 TRANSLATED_LAN="en_XX"
 
-SAVE_PATH="C:\\Users\\umtak\\My_Models\\Translate_Audio_Turkish_to_English\\Text_To_Text\\Predictions\\pred_text2.txt"
+SAVE_PATH="Text_To_Text\\Predictions\\pred_text2.txt"
