@@ -1,0 +1,5 @@
+Input Text:
+ Türkiye köprü konumunda olan bir ülkedir. Asya ile Avrupa arasýnda bir geçiþ noktasýnda bulunur. Zengin tarihi, çeþitli kültürleri barýndýran coðrafyasý ve muazzam doðal güzellikleriyle dikkat çeker. Ýstanbul Boðazý ve Çanakkale Boðazý gibi stratejik noktalara ev sahipliði yapmasý, burayý önemli bir kültür ve ticaret merkezi haline getirir. Renkli ve lezzetli mutfaðý, sýcak kanlý insanlarý ve tarihi eserleriyle Türkiye ziyaretçileri unutulmaz bir deneyim sunar.
+
+Translated Text:
+['Turkey is a bridge country; it is a crossroads between Asia and Europe; it has a rich history, a geography of diverse cultures and an enormous natural beauty; it hosts strategic locations such as the Bosphorus of Istanbul and the Canakkale Bosphorus, making it an important cultural and commercial centre; its colourful and tasty cuisine, warm-blooded people and historic monuments offer Turkish visitors an unforgettable experience.']

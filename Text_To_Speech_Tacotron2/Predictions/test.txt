@@ -1,0 +1,3 @@
+Text-to-speech (TTS) models are artificial intelligence models designed to 
+convert written text into spoken words. These models use natural language processing (NLP) and deep learning techniques to generate human-like speech from input text.
+They have applications in various fields, including accessibility for individuals with visual impairments, voice assistants, audiobooks, and more.

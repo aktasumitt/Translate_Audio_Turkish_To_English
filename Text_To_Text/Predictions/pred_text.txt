@@ -1,0 +1,5 @@
+Input Text:
+Elektro negatiflik, Nobel ödüllü kimyager Linus Pauling tarafýndan tanýtýlan bir kavram olupbir atomun elektronlarý kabul etme yeteneðini tanýmlar.Eðer bir atom elektronlarý verme eðilimindeyse,genellikle onu elektropozitif olarak adlandýrýrýz.Pauling, elementlerin elektro negatifliklerini ölçen bir ölçek oluþturdu
+
+Translated Text:
+["Electronegativity is a concept promoted by Nobel Prize-winning chemist Linus Pauling, who describes an atom's ability to accept electrons. If an atom tends to give electrons, we usually call it electropositive. Pauling created a scale measuring the electronegativities of elements."]
