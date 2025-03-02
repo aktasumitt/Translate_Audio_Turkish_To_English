@@ -1,0 +1,14 @@
+model_ingestions:
+  whisper_model_save_path: artifacts/models/speech_recognation/whisper_model
+  whisper_processor_save_path: artifacts/models/speech_recognation/whisper_processor
+  mms_model_save_path: artifacts/models/text_to_speech/mms_model
+  mms_processor_save_path: artifacts/models/text_to_speech/mms_processor
+  marian_model_save_path: artifacts/models/translate/marian_model
+  marian_processor_save_path: artifacts/models/translate/marian_processor
+
+predictions:
+  recognated_text_save_path: results/recognated_text.json
+  translated_text_path: results/translated_text.json
+  translated_audio_save_path: results/translated_audio.wav
+  main_turkish_audio_path: Turkey_Audio.wav
+

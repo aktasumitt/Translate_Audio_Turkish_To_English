@@ -1,0 +1,14 @@
+transformers
+scipy
+sentencepiece
+sacremoses
+soundfile
+ffmpeg
+python-box
+pathlib
+pyyaml
+Flask
+torch 
+torchaudio
+dvc
+dvc-s3
